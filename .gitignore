@@ -1,0 +1,22 @@
+# Virtual environment
+lenox_venv/
+
+# Temporary files
+tmp/
+
+# Configuration files with sensitive information
+OAI_CONFIG_LIST
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python and IDE artifacts
+.Python
+*.bak
+*.swp
+*~
+.idea/
+.vscode/
